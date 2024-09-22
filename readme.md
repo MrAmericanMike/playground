@@ -8,7 +8,7 @@ It is there to allow Track Builder to choose the project area, since Track Build
 ## Setup
 
 1. git clone playground.git repository.
-2. Download TrackBuilder ([here](https://tyrebytes.com/t/track_builder/track_builder_v0.2.5.zip) talk with Tim)
+2. Download TrackBuilder ([here](https://tyrebytes.com/t/track_builder/track_builder_windows.zip) talk with Tim)
 3. Run TrackBuilder and choose File > New Project and navigate to playground/playground.exe
 4. Good luck! (the playground.exe is not a valid executable, it doesn't actually matter here).
 
