@@ -1,0 +1,19 @@
+{
+	"version":1,
+	"components":{
+		"rigidbody":{
+			"id":"b52e2b86-a7e8-4748-8b4e-b65e505849fa",
+			"mass" : { "type":"float", "default":1 },
+			"index": { "default":0 },
+			"cut_penalty": { "default":true }
+		},
+		"volume_sphere":{
+			"id":"488d152b-e81c-4467-8f1c-8ef631b5e509",
+			"offset":{ "default":[ 0.0, 0.0, 0.0 ] },
+			"radius":{ "default":1.0 }
+		},
+		"grand_stand":{
+			"id":"f541890d-8f33-4926-bc20-5a4e615e23b7"
+		}
+	}
+}
