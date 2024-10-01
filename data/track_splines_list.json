@@ -1,0 +1,67 @@
+{
+	"spline_objects":[
+		{
+			"name":"Simple Road",
+			"mesh":"data/meshes/splines/simple_road.msh",
+			"material":"data/materials/simple_road.mat",
+			"uv_unwrap_mode":"projected",
+			"uv_unwrap_scale":{ "x": 0.25, "y": 0.25 }
+		},
+		{
+			"name":"Simple Barrier",
+			"mesh":[
+				"data/meshes/splines/simple_barrier.msh",
+				"data/meshes/splines/simple_barrier_end.msh",
+				"data/meshes/splines/simple_barrier_post.msh"
+			],
+			"material":[
+				"data/materials/palette64.mat",
+				"data/materials/palette64.mat",
+				"data/materials/palette64.mat"
+			],
+			"cap_start":1,
+			"cap_final":1,
+			"cap_middle":2
+		},
+		{
+			"name":"Simple Curb",
+			"mesh":[
+				"data/meshes/spline_simple_curb.msh",
+				"data/meshes/spline_simple_curb_start.msh",
+				"data/meshes/spline_simple_curb_final.msh"
+			],
+			"material":[
+				"data/materials/palette64.mat",
+				"data/materials/palette64.mat",
+				"data/materials/palette64.mat"
+			],
+			"cap_start":1,
+			"cap_final":2
+		},
+		{
+			"name":"Filled Grass Edge",
+			"mesh":"data/meshes/splines/filled_grass_edge.msh",
+			"material":"data/materials/grass.mat",
+			"is_filled":true,
+			"_uv_unwrap_mode":"static",
+			"uv_unwrap_mode":"projected",
+			"uv_unwrap_scale":{ "x": 0.1, "y": 0.1 }
+		},
+		{
+			"name":"Filled Sand Trap",
+			"mesh":"data/meshes/splines/filled_sand_edge.msh",
+			"material":"data/materials/sand_trap.mat",
+			"is_filled":true,
+			"uv_unwrap_mode":"projected",
+			"uv_unwrap_scale":{ "x": 0.1, "y": 0.1 }
+		},
+		{
+			"name":"Filled Pavement",
+			"mesh":"data/meshes/splines/filled_pavement_edge.msh",
+			"material":"data/materials/simple_road.mat",
+			"is_filled":true,
+			"uv_unwrap_mode":"projected",
+			"uv_unwrap_scale":{ "x": 0.25, "y": 0.25 }
+		}
+	]
+}

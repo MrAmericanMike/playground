@@ -24,3 +24,9 @@ Shortcuts (G)rab, (R)otate, (S)cale
 ## Submitting an Issue
 
 If you submit an issue here for Track Builder stuff start it with: `TrackBuilder: ... ` like: `TrackBuilder: Camera is stuck moving around`.
+
+
+## Credits
+
+open_art_grass.png by "LuminousDragonGames"
+open_art_sand.png is grass with a yellow tint!
