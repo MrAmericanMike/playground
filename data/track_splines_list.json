@@ -26,9 +26,9 @@
 		{
 			"name":"Simple Curb",
 			"mesh":[
-				"data/meshes/spline_simple_curb.msh",
-				"data/meshes/spline_simple_curb_start.msh",
-				"data/meshes/spline_simple_curb_final.msh"
+				"data/meshes/splines/simple_curb.msh",
+				"data/meshes/splines/simple_curb_start.msh",
+				"data/meshes/splines/simple_curb_final.msh"
 			],
 			"material":[
 				"data/materials/palette64.mat",
