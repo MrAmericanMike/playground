@@ -1,0 +1,27 @@
+{
+	"track_objects":[
+		{
+			"name":"Cone",
+			"mesh":"data/meshes/autocross_cone.msh",
+			"material":"data/materials/palette64.mat",
+			"move":true,
+			"rotate":true,
+			"scale":false
+		},
+		{
+			"name":"Tire Stack (Red)",
+			"mesh":"data/meshes/tire_stack_red.msh",
+			"material":"data/materials/palette64.mat"
+		},
+		{
+			"name":"Tire Stack (White)",
+			"mesh":"data/meshes/tire_stack_white.msh",
+			"material":"data/materials/palette64.mat"
+		},
+		{
+			"name":"Tire Stack (Blue)",
+			"mesh":"data/meshes/tire_stack_blue.msh",
+			"material":"data/materials/palette64.mat"
+		}
+	]
+}
