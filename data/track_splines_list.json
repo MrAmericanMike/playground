@@ -62,6 +62,13 @@
 			"is_filled":true,
 			"uv_unwrap_mode":"projected",
 			"uv_unwrap_scale":{ "x": 0.25, "y": 0.25 }
+		},
+		{
+			"mesh":"",
+			"material":"",
+			"name":"Cones Along Curve",
+			"object_definitions":0,
+			"gap":3.0
 		}
 	]
 }
